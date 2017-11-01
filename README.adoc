@@ -1,7 +1,7 @@
 = NationalParks backend application (Python)
 
 This application is a backend that provides geolocation information about
-NationalParks. The information is stored in a mongodb
+NationalParks. The information is stored in a mongodb.
 
 == Installation
 
